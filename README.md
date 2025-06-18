@@ -35,5 +35,8 @@ The projects here cover fundamental concepts of JavaScript, from writing comment
 Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
 🎖️ [View Certificate](https://www.dicoding.com/certificates/0LZ0RW4RNP65)
 
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
 ## 📄 License
 This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman JavaScript" course.
