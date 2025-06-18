@@ -32,8 +32,7 @@ The projects here cover fundamental concepts of JavaScript, from writing comment
 Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
 
 ## 👨‍💻 Author
-**Sultan Badra**  
-🔗 [Dicoding Profile](https://www.dicoding.com/users/sultan_badra/academies)
+🔗 [Sultan Badra](https://www.dicoding.com/users/sultan_badra/academies)
 
 ## 📄 License
 This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman JavaScript" course.
