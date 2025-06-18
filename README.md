@@ -31,11 +31,9 @@ The projects here cover fundamental concepts of JavaScript, from writing comment
 └── optional-07-real-world-scenario         # Real-world: Restaurant order management
 ```
 
-## 🏆 Completion Status
+## 📜 Certificate
 Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
-
-## 👨‍💻 Author
-🔗 [Sultan Badra](https://www.dicoding.com/users/sultan_badra/academies)
+🎖️ [View Certificate](https://www.dicoding.com/certificates/0LZ0RW4RNP65)
 
 ## 📄 License
 This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman JavaScript" course.
