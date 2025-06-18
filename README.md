@@ -2,6 +2,9 @@
 This repository contains submission projects for the **"Belajar Dasar Pemrograman JavaScript"** provided by Dicoding.
 The projects here cover fundamental concepts of JavaScript, from writing comments to building real-world applications.
 
+![Dicoding](https://img.shields.io/badge/Dicoding-Completed-blue?logo=dicoding&style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-5/5★-brightgreen?style=flat-square)
+
 ## ⚙️ Technologies Used
 - JavaScript
 - Node.js
