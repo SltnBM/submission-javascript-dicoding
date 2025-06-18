@@ -19,13 +19,13 @@ The projects here cover fundamental concepts of JavaScript, from writing comment
 ## 📁 Project Structure 
 ```plaintext
 📂 submission-javascript-dicoding/
-├── 01-writing-comments # Practice writing comments in JavaScript
-├── 02-code-style # Applying consistent code style
-├── 03-writing-test # Writing unit tests for JavaScript functions
-├── optional-04-oop # OOP: Inventory Management System
-├── optional-05-recursive # Recursive function implementation
-├── optional-06-full-coverage-testing # Full coverage testing for functions
-└── optional-07-real-world-scenario # Real-world: Restaurant order management
+├── 01-writing-comments                     # Practice writing comments in JavaScript
+├── 02-code-style                           # Applying consistent code style
+├── 03-writing-test                         # Writing unit tests for JavaScript functions
+├── optional-04-oop                         # OOP: Inventory Management System
+├── optional-05-recursive                   # Recursive function implementation
+├── optional-06-full-coverage-testing       # Full coverage testing for functions
+└── optional-07-real-world-scenario         # Real-world: Restaurant order management
 ```
 
 ## 🏆 Completion Status
