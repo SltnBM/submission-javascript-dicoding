@@ -32,7 +32,8 @@ The projects here cover fundamental concepts of JavaScript, from writing comment
 ```
 
 ## 📜 Certificate
-Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
+Successfully completed the "Belajar Dasar Pemrograman JavaScript" course on Dicoding.
+
 🎖️ [View Certificate](https://www.dicoding.com/certificates/0LZ0RW4RNP65)
 
 ## 🤝 Connect with Me
